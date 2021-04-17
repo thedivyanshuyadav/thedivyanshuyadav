@@ -58,3 +58,5 @@ I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh whi
 ## Pinned Repository ⚡
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=ISENW&theme=prussian)](https://github.com/thedivyanshuyadav/ISENW)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=CartPole-v1&theme=prussian)](https://github.com/thedivyanshuyadav/CartPole-v1)
