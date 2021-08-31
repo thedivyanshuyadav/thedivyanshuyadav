@@ -39,6 +39,18 @@ I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh whi
 
 <br>
 
+
+## Pinned Repository ⚡
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=ISENW&theme=prussian)](https://github.com/thedivyanshuyadav/ISENW)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=realtime-chat-app&theme=prussian)](https://github.com/thedivyanshuyadav/realtime-chat-app)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=Iris-Classification&theme=prussian)](https://github.com/thedivyanshuyadav/Iris-Classification)
+
+
+<br>
+
 ## Connect 🤝
 
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/divyanshuyadav/) &emsp;
@@ -54,9 +66,3 @@ I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh whi
 ![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=thedivyanshuyadav&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=1000&bg_color=0,#f6736,#6533f)
 
 <br>
-
-## Pinned Repository ⚡
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=ISENW&theme=prussian)](https://github.com/thedivyanshuyadav/ISENW)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=CartPole-v1&theme=prussian)](https://github.com/thedivyanshuyadav/CartPole-v1)
