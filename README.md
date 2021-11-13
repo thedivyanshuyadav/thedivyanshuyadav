@@ -3,7 +3,7 @@
 
 ## About 👋
 
-I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh which is affiliated by Dr A.P.J. Abdul Kalam Technical University (AKTU) formerly known as Uttar Pradesh Technical University (UPTU). I am an aspiring Machine Learning Engineer. Apart from Machine Learning , I am also skilled in Web Development. My hobbies are singing, playing chess and watching movies. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.
+I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh which is affiliated by Dr A.P.J. Abdul Kalam Technical University (AKTU) formerly known as Uttar Pradesh Technical University (UPTU). I am a python programmer. My hobbies are singing, playing chess and watching movies. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.
 
 
 - 🔭 I’m currently working on portfolio
@@ -17,9 +17,6 @@ I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh whi
 
 ## Skills 🚀 
 
-[![](https://img.shields.io/badge/Tensorflow-fc820f?style=for-the-badge&logo=tensorflow&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Keras-fc2814?style=for-the-badge&logo=keras&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
@@ -32,7 +29,6 @@ I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh whi
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Bootstrap-732796?style=for-the-badge&logo=bootstrap&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Firebase-ffc117?style=for-the-badge&logo=firebase&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Hugo-965364?style=for-the-badge&logo=hugo&logoColor=white)](#) &emsp;
@@ -46,7 +42,7 @@ I am currently persuing B.Tech(IT) from Rajkiya Engineering College Azamgarh whi
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=realtime-chat-app&theme=prussian)](https://github.com/thedivyanshuyadav/realtime-chat-app)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=Iris-Classification&theme=prussian)](https://github.com/thedivyanshuyadav/Iris-Classification)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thedivyanshuyadav&repo=Movie-System-webapp&theme=prussian)](https://github.com/thedivyanshuyadav/Movie-System-webapp)
 
 
 <br>
